@@ -38,7 +38,7 @@ console.log(array)
 */
 
 /*
-Exercício 3 (Incompleto)
+Exercício 3
 Resposta:
 
 let listaDeTarefas = [];
