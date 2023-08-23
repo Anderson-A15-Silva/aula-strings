@@ -36,6 +36,7 @@ const desafioComida = prompt("Qual a sua comida preferida?")
 array[1] = desafioComida
 console.log(array)
 */
+
 /*
 Exercício 3 (Incompleto)
 Resposta:
@@ -70,7 +71,7 @@ Resposta:
 
 const arrayDesafio = ["Banana", "Morango", "Abacaxi", "Laranja", "Ameixa"]
 const tamanhoArrayDesafio = arrayDesafio.length
-const resultadoDesafio = Number(tamanhoArrayDesafio) - 1
+const resultadoDesafio = Number(tamanhoArrayDesafio) - 3
 const indiceAbacaxi = resultadoDesafio
 console.log("Índice do Abacaxi", indiceAbacaxi)
 console.log("Tamanho do Array", tamanhoArrayDesafio)
