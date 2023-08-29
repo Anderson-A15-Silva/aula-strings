@@ -57,7 +57,7 @@ console.log(listaDeTarefas);
 */
 
 /*
-Desafio 1 (Incompleto)
+Desafio 1
 Resposta:
 
 let fraseDesafio = prompt("Insira uma frase: ");
